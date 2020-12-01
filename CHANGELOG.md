@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/adobe/cci-test-aggregator/compare/v1.1.0...v1.1.1) (2020-12-01)
+
+
+### Bug Fixes
+
+* correct npx script path ([be1d8b8](https://github.com/adobe/cci-test-aggregator/commit/be1d8b81b3d5fc854e4a9768aa21cd4c64296ce1))
+
 # [1.1.0](https://github.com/adobe/cci-test-aggregator/compare/v1.0.0...v1.1.0) (2020-12-01)
 
 
