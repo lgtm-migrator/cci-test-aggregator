@@ -4,7 +4,7 @@
   "description": "CircleCI Test Aggregator",
   "main": "src/index.js",
   "bin": {
-    "cci-test-aggregator": "./index.js"
+    "cci-test-aggregator": "src/index.js"
   },
   "scripts": {
     "test": " nyc --reporter=text --reporter=lcov --check-coverage --branches 0 --statements 0 --lines 0 mocha",
