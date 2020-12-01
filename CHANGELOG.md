@@ -1,3 +1,10 @@
+# 1.0.0 (2020-12-01)
+
+
+### Features
+
+* initial implementation ([2ea7aed](https://github.com/adobe/cci-test-aggregator/commit/2ea7aedd6f5de28bb42ff25478049cf1c233bb4c))
+
 ## [1.4.5](https://github.com/adobe/helix-library/compare/v1.4.4...v1.4.5) (2020-10-02)
 
 
