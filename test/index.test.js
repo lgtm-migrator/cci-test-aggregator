@@ -14,8 +14,8 @@
 
 'use strict';
 
-const assert = require('assert');
-const index = require('../src/index.js').main;
+// const assert = require('assert');
+// const index = require('../src/index.js').main;
 
 describe('Index Tests', () => {
 });
