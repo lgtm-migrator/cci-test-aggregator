@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/adobe/cci-test-aggregator/compare/v1.1.1...v1.1.2) (2020-12-01)
+
+
+### Bug Fixes
+
+* turn index file into a script ([2bdc692](https://github.com/adobe/cci-test-aggregator/commit/2bdc6924e5af30a973cf580cd294de388f884bdb))
+
 ## [1.1.1](https://github.com/adobe/cci-test-aggregator/compare/v1.1.0...v1.1.1) (2020-12-01)
 
 
