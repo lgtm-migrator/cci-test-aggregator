@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/adobe/cci-test-aggregator/compare/v1.0.0...v1.1.0) (2020-12-01)
+
+
+### Features
+
+* add npx script ([77bde35](https://github.com/adobe/cci-test-aggregator/commit/77bde359ffdb1592e529bb42727fc187c7b1789d))
+
 # 1.0.0 (2020-12-01)
 
 
