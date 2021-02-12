@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/adobe/cci-test-aggregator/compare/v1.1.3...v1.1.4) (2021-02-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @adobe/helix-fetch to v2.1.4 ([107f771](https://github.com/adobe/cci-test-aggregator/commit/107f771b6f3429858df90388b484ed8e1443a8ed))
+
 ## [1.1.3](https://github.com/adobe/cci-test-aggregator/compare/v1.1.2...v1.1.3) (2020-12-15)
 
 
